@@ -1,0 +1,12 @@
+{
+    "PORT": 8080,
+    "DB_PORT": 6379,
+    "DB_HOST": "127.0.0.1",
+    "PLAN_TYPE": "plan",
+    "JWT_SECRET": "lifeishard!",
+    "RABBITMQ_QUEUE_NAME": "demo3-info",
+    "RABBITMQ_EXCHANGE_TYPE": "direct",
+    "RABBITMQ_EXCHANGE_NAME": "demo",
+    "RABBITMQ_KEY": "demo3",
+    "ELASTICSEARCH_INDEX_NAME": "demo3-info"
+}

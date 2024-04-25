@@ -1,0 +1,23 @@
+{
+    "type": "blog",
+    "id": "123456",
+    "title": "novel indexing techniques",
+    "comments": [
+        {
+            "type": "comment",
+            "id": "78910",
+            "created": "05-12-2017",
+            "author": {
+                "name": "Michael Smith", 
+                "_id": "121314",
+                "_type": "person",
+                "inferred":["blog-person"]}
+        }
+    ],
+    "blog_creator": {
+        "user":{
+            "id":1,
+            "type":"user" 
+        }
+    }
+}
